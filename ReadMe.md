@@ -1,16 +1,17 @@
-Question One
-BDD - Identify the object type
+# Question One
+ ## BDD 
+ - Identify the object type
 
-PSEUDO CODE:
+### PSEUDO CODE:
 
 START
 
-Check if the object: (using a case structure)
-  1.If Hacker => "It's a Hacker!"
-  2.If Submission => "It's a Submission!"
-  3.If TestCase => "It's a TestCase!"
-  4.If Contest => "It's a Contest!"
-  5.If anything else => "It's an unknown model
+1.Check if the object: (using a case structure)
+  - If Hacker => "It's a Hacker!"
+  - If Submission => "It's a Submission!"
+  - If TestCase => "It's a TestCase!"
+  - If Contest => "It's a Contest!"
+  - If anything else => "It's an unknown model
 END
 
 
