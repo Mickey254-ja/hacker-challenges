@@ -14,4 +14,18 @@ START
   - If anything else => "It's an unknown model
 END
 
+#  Question 2
+## BDD 
+- Receive an input of an object 'colors'.
+- Output an array containing values
+
+## Pseudo code 
+START
+- In put colors object
+- Declare empty array(arr)
+- Iterate over each item(color)
+- Add each iteration to arr
+- Return arr
+END
+
 
